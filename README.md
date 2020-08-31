@@ -5,13 +5,15 @@
 - 🔭 I’m currently working on **Snapvestor**
 - 🌱 I’m currently learning **React, Recoil, Firebase**
 - 👯 I’m looking to collaborate on **Coding Better**
-- 💬 Ask me about **Python, Django, Photoshop**
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about **Python and Django**
+- 🥅 2020 Goals: **Contribute more to Open Source projects**
 - ⚡ Fun fact **I love to play guitar/piano and sketch**
 
 <br />
 
 ### Languages and Tools:
+
+<br />
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="26px" />
 
@@ -51,6 +53,12 @@
 
 <br />
 
+---
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaraza&layout=compact&hide=html" alt="babaraza" />
+
 <br />
 
 ---
@@ -58,12 +66,3 @@
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=babaraza&show_icons=true&hide_border=true" alt="babaraza" />
-
-<br />
-
----
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaraza&layout=compact&hide=html" alt="babaraza" />
-
