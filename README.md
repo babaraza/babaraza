@@ -1,6 +1,6 @@
-### Hi 👋, I'm Babar
+## Hi 👋, I'm Babar
 
-## I'm a self taught full stack developer v1.0
+### I'm a self taught full stack developer v1.0
 
 - 🔭 I’m currently working on **Snapvestor**
 - 🌱 I’m currently learning **React, Recoil, Firebase**
@@ -9,13 +9,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact **I love to play guitar/piano and sketch**
 
-<br />
-
 ### Languages and Tools:
-
 <br />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="26px" />
 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="26" />
 
@@ -52,8 +49,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-<br />
 
 ---
 
@@ -61,7 +56,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaraza&layout=compact&hide=html" alt="babaraza" />
 
-<br />
 <br />
 
 ---
