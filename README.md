@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React, Recoil, Firebase**
 - 👯 I’m looking to collaborate on **Coding Better**
 - 💬 Ask me about **Python and Django**
-- 🥅 2020 Goals: **Contribute more to Open Source projects**
+- 🥅 2021 Goals: **Contribute more to Open Source projects**
 - ⚡ Fun fact **I love to play guitar/piano and sketch**
 
 <br />
