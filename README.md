@@ -55,7 +55,5 @@
 
 ---
 
-
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaraza&layout=compact&hide=html" alt="babaraza" /> | <img src="https://github-readme-stats.vercel.app/api?username=babaraza&show_icons=true&hide_border=true" alt="babaraza" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaraza&layout=compact&hide=html" alt="babaraza" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=babaraza&show_icons=true&hide_border=true" alt="babaraza" />
