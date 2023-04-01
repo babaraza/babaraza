@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Babar
 
-### I'm a self taught full stack developer v1.0
-
 - 🧠 I’m currently learning **AI and Machine Learning**
 - 💬 Ask me about **Python/Django/Stable Diffusion/ChatGPT**
 - 🥅 2023 Goals: **Contribute more to Open Source projects**
