@@ -2,18 +2,11 @@
 
 ### I'm a self taught full stack developer v1.0
 
-- 🔭 I’m currently working on **Snapvestor**
-- 🌱 I’m currently learning **React, Firebase, PWA**
-- 👯 I’m looking to collaborate on **Coding Better**
-- 💬 Ask me about **Python and Django**
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
-- ⚡ Fun fact **I love to play guitar/piano**
+- 🧠 I’m currently learning **AI and Machine Learning**
+- 💬 Ask me about **Python/Django/Stable Diffusion/ChatGPT**
+- 🥅 2023 Goals: **Contribute more to Open Source projects**
   
-  
-
 ------
-
-
 
 ### Skill set:
 
