@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Babar
 
 - 🧠 I’m currently learning about **AI and Machine Learning**
-- 💬 Ask me about **Python/Django/Stable Diffusion/ChatGPT**
-- 🥅 2023 Goals: **Contribute more to Open Source projects**
+- 💬 Ask me about **Python/Stable Diffusion/ChatGPT**
+- 🥅 2024 Goals: **Contribute more to Open Source projects**
   
 ------
 
