@@ -1,6 +1,6 @@
-🧠 Currently working on AI and Machine Learning
+👉🏼 Currently working on AI and Machine Learning
 
-🥅 2024 Goals to contribute to Open Source projects
+🚀 2024 goal is to contribute to Open Source projects
 
 ---
 
