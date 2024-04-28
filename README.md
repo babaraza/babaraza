@@ -12,5 +12,5 @@
 
 ---
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=babaraza&show_icons=true&hide_border=true&hide_rank=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babaraza&layout=donut)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=babaraza&show_icons=true&hide_border=true&hide_rank=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babaraza&layout=donut&theme=transparent&hide_border=true)
 
